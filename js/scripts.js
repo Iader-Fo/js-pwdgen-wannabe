@@ -28,14 +28,14 @@ console.log(typeof colore);
 
 // SOLUZ.1
 
-// let password = nome + cognome + colore + 21;
+let password = nome + cognome + colore + 21;
 
-// console.log(password);
+console.log(password);
 
-// console.log(typeof password);
+console.log(typeof password);
 
 
-// document.getElementById('info').innerHTML=password;
+document.getElementById('info').innerHTML=password;
 
 // SOLUZ.2
 
